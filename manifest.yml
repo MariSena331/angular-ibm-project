@@ -1,4 +1,8 @@
----
-applications:
-- name: angular-ibm-project
-  path: F:\Bitbucket\angular-ibm-project
+  applications:
+- path: F:\Bitbucket\angular-ibm-project
+ memory: 512M
+ instances: 1
+ domain: mybluemix.net
+ name: angular-ibm-project
+ host: angular-ibm-project
+ disk_quota: 256M
