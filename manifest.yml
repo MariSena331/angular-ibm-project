@@ -1,3 +1,4 @@
 ---
 applications:
 - name: angular-ibm-project
+  path: F:\Bitbucket\angular-ibm-project
